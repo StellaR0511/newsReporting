@@ -1,0 +1,42 @@
+div{
+    padding-bottom:50px;
+}
+
+.centered{
+    position:absolute;
+    bottom: 21%;
+    left:38.5%;
+    font-size: 25px;
+    font-family:'Cinzel', serif;
+}
+#breakingnews{
+    width:400;
+    height: auto;
+    margin-top:100px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: lightblue;
+    bottom:0;
+    width: 100%;
+    font-size: 18px;
+    background-color: teal;
+    text-align: center;
+    line-height: 3;
+    text-shadow: 5px 5px 5px blue;
+    font-family: 'Edu TAS Beginner', cursive;
+    height:5%;
+}
+canvas{
+    margin-top: 40px;
+}
+.news{
+    background-image: "breakingnews.png";
+    height: 100px;
+    width:100%;
+    padding: 10px;
+    margin-top: 500px;
+}
+.news input{
+    background: transparent;
+}
